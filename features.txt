@@ -1,0 +1,49 @@
+Welcome to Urdu Writer Pro
+
+馃搶 PURPOSE:
+This accessibility service is designed to help you type in multiple languages and styles using just your voice. Whether you want to write in modern Urdu, classical literary Urdu, or professional English, this tool makes it effortless.
+
+馃敡 HOW TO USE:
+1. Open any app where you want to type (WhatsApp, YouTube, Notes, etc.)
+2. Tap on any text input field to focus on it
+3. The voice typing will start automatically when focus is detected
+4. Speak naturally in Urdu - the system will handle the rest
+
+馃幆 TYPING MODES:
+
+1锔忊儯 AUTO DETECT SCRIPT
+   - Writes Urdu words in Urdu script
+   - Keeps English words in English alphabet
+   - Perfect for everyday conversation
+   - Example: "丌倬 讴丕 亘蹃鬲 亘蹃鬲 Thank you"
+
+2锔忊儯 MIYARI URDU MODE (Classical Urdu)
+   - Converts your speech into pure, classical Lucknow-style Urdu
+   - Uses sophisticated and elegant vocabulary
+   - No English words allowed - all translated to Urdu
+   - Perfect for formal writing and literary work
+
+3锔忊儯 ENGLISH PROFESSIONAL MODE
+   - Translates your Urdu speech into professional American English
+   - Converts even broken Urdu into polished, natural English
+   - Uses proper grammar and formal vocabulary
+   - Perfect for international communication
+
+鈿欙笍 END ACTION SETTINGS:
+Choose what happens after each sentence:
+   鈥� None - Nothing added
+   鈥� Space - Adds a space
+   鈥� New Line - Moves to next line
+   鈥� Space + New Line - Adds space and new line
+
+馃挕 TIPS:
+- Speak clearly at a normal pace
+- No need to speak in perfect Urdu - the AI handles all variations
+- Switch modes anytime from Settings
+- Save your settings before closing
+
+馃敀 PRIVACY:
+Your API key is stored locally on your device. No data is saved or shared anywhere.
+
+馃摫 Developed by: Waqas
+Version: 1.0
